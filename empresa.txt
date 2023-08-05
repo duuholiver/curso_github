@@ -1,3 +1,6 @@
 Sujeito programador
 Asus
 HP
+Microsoft
+Google
+Apple
